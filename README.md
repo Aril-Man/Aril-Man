@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/AzrielFhr2"><img alt="Azriel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azrielfhr2&custom_title=Azriel's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/AzrielFhr2"><img alt="Azriel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Azrielfhr2&custom_title=Azriel's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
   
