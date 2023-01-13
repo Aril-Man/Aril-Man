@@ -41,13 +41,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azrielfhr2&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
-
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/AzrielFhr2"><img alt="Azriel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Azrielfhr2&custom_title=Azriel's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
   
   
   ### 🤝🏻 &nbsp;Connect with Me
