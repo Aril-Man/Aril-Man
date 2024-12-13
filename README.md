@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/azriel-fauzi-hermansyahh/"><img src="https://img.shields.io/badge/-Azriel%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/azriel-fauzi-hermansyahh/"><img src="https://img.shields.io/badge/-Azriel%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:azrielfauzi23@gmail.com"><img src="https://img.shields.io/badge/-azrielfauzi23@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/azriel_fauzi.h/"><img src="https://img.shields.io/badge/-@azriel_fauzi.h-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
